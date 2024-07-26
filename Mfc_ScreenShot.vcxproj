@@ -204,6 +204,7 @@
     <ResourceCompile Include="MfcScreenShot.rc" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="res\MfcScreenShot.rc2" />
   </ItemGroup>
   <ItemGroup>
